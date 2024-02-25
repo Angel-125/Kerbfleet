@@ -1,0 +1,55 @@
+MINIMUM REQUIREMENTS
+
+KSP 1.12.5
+Breaking Ground DLC
+Making History DLC
+Wild Blue Tools: https://github.com/Angel-125/WildBlueTools/releases/tag/v1.89.2
+Kerbal Planetary Base Systems: https://spacedock.info/mod/173/Kerbal Planetary Base Systems#
+
+RECOMMENDED MODS
+
+Kerbfleet Planet Pack: https://spacedock.info/mod/502/Kerbfleet%20Planet%20Pack:%20The%20Kerbulus%20System
+Restock: https://forum.kerbalspaceprogram.com/topic/182679-1123-restock-revamping-ksps-art-feb-25/
+RestockPlus: https://spacedock.info/mod/2106/RestockPlus
+
+ACTION GROUPS
+
+NOTE: In the VAB/SPH, turn ON "Activate Action Sets" in the bottom-left corner when on the Action Groups tab.
+
+NOTE: These are the pre-defined action groups. You can edit them as desired- even in flight!
+
+Action Set 1: Intrepid Flight Ops
+1: Toggle Space Doors & Hangar Lights
+2: Toggle Q-Bay Doors & Q-Bay Lights
+3: Toggle Forward Ramp
+4: Toggle Aft Ramp
+5: Toggle Port/Starboard Probe Bay Doors
+6: Toggle Drill Deployment & Radiators (Intrepid & Qwammer)
+7: Toggle Drill Harvesting (Intrepid & Qwammer)
+8: Toggle Convert-O-Tron-250 (Intrepid & Qwammer)
+9: Toggle Hangar Bay Lights
+10: Toggle S.A.F.E.R. Reactors
+
+Action Set 2: Intrepid Engines
+1: Toggle Rhino Engines
+2: Toggle Nerv Engines
+3: Toggle Dart Engines (Intrepid & Qwammer)
+4: Toggle Forward Dart Engines Thrust Limiter (to adjust for Center of Mass with/without Qwammer)
+
+Action Set 3: Auxiliary Craft
+1: 
+2: Toggle Ladders (Qwammer, X-5)
+3: Toggle Dart Engines (Qwammer)
+4: Toggle R.A.P.I.E.R. Engines (X-5)
+5: Toggle Engine Mode (X-5)
+6: Toggle Drill Deployment & Radiators (Qwammer)
+7: Toggle Drill Harvesting (Qwammer)
+8: Toggle Convert-O-Tron-250 (Qwammer)
+9: Toggle Fuel Cells (Qwammer & X-5)
+10: 
+
+Action Set 4: Kermulans
+1: Fire phasers!
+2: Port torpedoes, FIRE!
+3: Starboard torpedoes, FIRE!
+4: All torpedoes, FIRE!
