@@ -53,6 +53,7 @@ Action Set 4: Kermulans
 2: Port torpedoes, FIRE!
 3: Starboard torpedoes, FIRE!
 4: All torpedoes, FIRE!
+5: Toggle Bloaking Device
 
 Well shit, the Kermulan flag is SPQK, not SPRK. No ragrets, not even one letter!
 Make a Bloking Device, it can be done
