@@ -35,26 +35,31 @@ Action Set 2: Intrepid Engines
 2: Toggle Nerv Engines
 3: Toggle Dart Engines (Intrepid & Qwammer)
 4: Toggle Forward Dart Engines Thrust Limiter (to adjust for Center of Mass with/without Qwammer)
+5: Control From Here - Control the Intrepid from the center-aft hangar bay docking port, the one next to the radiators.
 
 Action Set 3: Auxiliary Craft
-1: 
-2: Toggle Ladders (Qwammer, X-5)
+1: Undock Qwammer Docking Ports (Intrepid, Qwammer)
+2: Undock X-5 Docking Ports (Intrepid, X-5)
 3: Toggle Dart Engines (Qwammer)
-4: Toggle R.A.P.I.E.R. Engines (X-5)
-5: Toggle Engine Mode (X-5)
+4: Toggle R.A.P.I.E.R. Engines (X-5, Shuttle)
+5: Toggle Engine Mode (X-5, Shuttle)
 6: Toggle Drill Deployment & Radiators (Qwammer)
 7: Toggle Drill Harvesting (Qwammer)
 8: Toggle Convert-O-Tron-250 (Qwammer)
-9: Toggle Fuel Cells (Qwammer & X-5)
-10: 
+9: Toggle Fuel Cells (Qwammer, X-5, Rover)
+10: Toggle Ladders (Qwammer, X-5, Shuttle)
 
-Action Set 4: Kermulans
+Action Set 4: Kermulans, Space Dock, & Intrepid Lights
 1: Fire phasers!
 2: Port torpedoes, FIRE!
 3: Starboard torpedoes, FIRE!
 4: All torpedoes, FIRE!
 5: Toggle Bloaking Device
+6: Toggle Engines & Radiators
+7: Toggle Fuel Cell
+8: Toggle Solar Arrays (Kerman Missile Boat)
+9: 
+10: 
 
-Well shit, the Kermulan flag is SPQK, not SPRK. No ragrets, not even one letter!
-Make a Bloking Device, it can be done
-Chapter 15 has good look at missiles.
+Send updated action groups with next update.
+Hard to tell how 
