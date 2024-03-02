@@ -11,6 +11,8 @@ RECOMMENDED MODS
 Kerbfleet Planet Pack: https://spacedock.info/mod/502/Kerbfleet%20Planet%20Pack:%20The%20Kerbulus%20System
 Restock: https://forum.kerbalspaceprogram.com/topic/182679-1123-restock-revamping-ksps-art-feb-25/
 RestockPlus: https://spacedock.info/mod/2106/RestockPlus
+Kerbal Combat System: https://github.com/Halbann/StockCombatAI
+https://www.youtube.com/watch?v=qXeTGCeeOic
 
 ACTION GROUPS
 
@@ -41,13 +43,13 @@ Action Set 3: Auxiliary Craft
 1: Undock Qwammer Docking Ports (Intrepid, Qwammer)
 2: Undock X-5 Docking Ports (Intrepid, X-5)
 3: Toggle Dart Engines (Qwammer)
-4: Toggle R.A.P.I.E.R. Engines (X-5, Shuttle)
+4: Toggle R.A.P.I.E.R. Engines (X-5)
 5: Toggle Engine Mode (X-5, Shuttle)
 6: Toggle Drill Deployment & Radiators (Qwammer)
 7: Toggle Drill Harvesting (Qwammer)
 8: Toggle Convert-O-Tron-250 (Qwammer)
 9: Toggle Fuel Cells (Qwammer, X-5, Rover)
-10: Toggle Ladders (Qwammer, X-5, Shuttle)
+10: Toggle Ladders (Qwammer, X-5)
 
 Action Set 4: Kermulans, Space Dock, & Intrepid Lights
 1: Fire phasers!
@@ -60,6 +62,3 @@ Action Set 4: Kermulans, Space Dock, & Intrepid Lights
 8: Toggle Solar Arrays (Kerman Missile Boat)
 9: 
 10: 
-
-Send updated action groups with next update.
-Hard to tell how 
