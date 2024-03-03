@@ -2,9 +2,9 @@ ship = Rover
 version = 1.12.5
 description = 
 type = SPH
-size = 1.89752531,1.40025139,2.44658804
+size = 1.89752436,1.40025139,2.44658995
 steamPublishedFileId = 0
-persistentId = 1347419258
+persistentId = 2490398821
 rot = 0,0,0,0
 missionFlag = Kerbfleet/Flags/kerbfleetFlag
 vesselType = Debris
@@ -16,16 +16,16 @@ PART
 {
 	part = trussPiece1x_4291582966
 	partName = Part
-	persistentId = 4051138435
+	persistentId = 1922118924
 	pos = 0.0046389983,10.0017624,-0.0150161432
 	attPos = 0,0,0
 	attPos0 = 0.0046389983,10.0017624,-0.0150161432
-	rot = -0.707106769,0,0,-0.707106769
+	rot = -0.707106829,0,0,-0.707106829
 	attRot = 0,0,0,-0.999999881
 	attRot0 = 0.707106769,0,0,0.707106769
 	mir = 1,1,1
 	symMethod = Mirror
-	autostrutMode = Off
+	autostrutMode = Grandparent
 	rigidAttachment = False
 	istg = -1
 	resPri = 0
@@ -211,16 +211,16 @@ PART
 {
 	part = trussPiece1x_4291581172
 	partName = Part
-	persistentId = 2681073422
-	pos = 0.0046389983,10.0017624,-1.13356352
+	persistentId = 97421579
+	pos = 0.0046389983,10.0017624,-1.13356423
 	attPos = 0,0,0
 	attPos0 = 0,-1.11854577,1.1920929E-07
-	rot = -0.707106769,0,0,-0.707106769
+	rot = -0.707106829,0,0,-0.707106829
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
 	symMethod = Mirror
-	autostrutMode = Off
+	autostrutMode = Grandparent
 	rigidAttachment = False
 	istg = -1
 	resPri = 0
@@ -319,7 +319,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -397,11 +397,11 @@ PART
 {
 	part = seatExternalCmd_4291579734
 	partName = Part
-	persistentId = 2771302670
+	persistentId = 3619110749
 	pos = 0.00463896152,10.5273304,0.00224911701
 	attPos = 0,0,0
 	attPos0 = -3.67062469E-08,0.0172653198,-0.525568068
-	rot = 0.707106769,1.1520234E-07,1.15202354E-07,0.707106769
+	rot = 0.707106829,1.15202354E-07,1.15202369E-07,0.707106829
 	attRot = 0,0,0,1
 	attRot0 = 0,-1.62920713E-07,-1.4210853E-14,-1
 	mir = 1,1,1
@@ -523,7 +523,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -843,11 +843,11 @@ PART
 {
 	part = seatExternalCmd_4291579316
 	partName = Part
-	persistentId = 3106600702
-	pos = 0.00463896152,10.5274839,-1.14670265
+	persistentId = 3229578341
+	pos = 0.00463896152,10.5274839,-1.14670336
 	attPos = -9.44453404E-11,-0.0407216549,-1.1920929E-07
 	attPos0 = -3.66927964E-08,0.0275826454,-0.52572161
-	rot = -1.1520234E-07,0.707106769,-0.707106769,1.15202354E-07
+	rot = -1.15202354E-07,0.707106829,-0.707106829,1.15202369E-07
 	attRot = 0,0,-0.99999994,0
 	attRot0 = 1.62920713E-07,0,1,-1.4210853E-14
 	mir = 1,1,1
@@ -969,7 +969,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -1289,11 +1289,11 @@ PART
 {
 	part = sensorGravimeter_4291577350
 	partName = Part
-	persistentId = 1677850033
-	pos = 0.0046389699,10.3260469,-0.491864264
+	persistentId = 155732030
+	pos = 0.0046389699,10.3260469,-0.491864413
 	attPos = -5.54898349E-11,0.0560654402,-2.98023224E-08
 	attPos0 = -2.83498487E-08,-0.532913566,-0.324284524
-	rot = 0.707106769,1.1520234E-07,1.15202354E-07,0.707106769
+	rot = 0.707106829,1.15202354E-07,1.15202369E-07,0.707106829
 	attRot = 0,0,0,1
 	attRot0 = 0,-1.62920713E-07,-1.4210853E-14,-1
 	mir = 1,1,1
@@ -1443,7 +1443,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -1505,11 +1505,11 @@ PART
 {
 	part = sensorAccelerometer_4291576812
 	partName = Part
-	persistentId = 359244012
-	pos = 0.230816349,10.3259354,-0.497243762
+	persistentId = 1262355970
+	pos = 0.230816349,10.3259354,-0.497243851
 	attPos = 0,0.068565309,-2.98023224E-08
 	attPos0 = 0.22617735,-0.550792933,-0.324172944
-	rot = 0.707106769,1.15202319E-07,1.15202333E-07,0.707106769
+	rot = 0.707106829,1.15202333E-07,1.15202347E-07,0.707106829
 	attRot = 0,0,0,1
 	attRot0 = 0,-1.62920699E-07,-1.4210853E-14,-1
 	mir = 1,1,1
@@ -1659,7 +1659,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -1721,11 +1721,11 @@ PART
 {
 	part = longAntenna_4291574462
 	partName = Part
-	persistentId = 3176430115
-	pos = -0.134344831,10.3022909,-0.573554099
+	persistentId = 2898525240
+	pos = -0.134344831,10.3022909,-0.573554695
 	attPos = 0.161544904,-1.1920929E-07,0
 	attPos0 = -0.300528735,0.56000948,-0.300528616
-	rot = 0.382683426,-0.923879564,0,0
+	rot = 0.382683426,-0.923879623,0,0
 	attRot = 0,0,0,1
 	attRot0 = -0.270598054,0.65328151,-0.65328151,-0.270598054
 	mir = 1,1,1
@@ -1882,7 +1882,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -1959,11 +1959,11 @@ PART
 {
 	part = batteryPack_4291570620
 	partName = Part
-	persistentId = 1064633179
-	pos = -0.322541296,10.0017624,0.330151618
+	persistentId = 1209537766
+	pos = -0.322541296,10.0017624,0.330151677
 	attPos = 0,0,0
 	attPos0 = -0.327180296,0.345167726,-2.98023224E-08
-	rot = 5.96046448E-08,-0.707106769,-1.78813934E-07,-0.707106769
+	rot = 5.96046448E-08,-0.707106829,-1.78813934E-07,-0.707106829
 	attRot = 0,0,-0.707106769,0.707106769
 	attRot0 = -0.50000006,0.500000119,-0.499999881,0.49999994
 	mir = 1,1,1
@@ -2063,7 +2063,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -2136,11 +2136,11 @@ PART
 {
 	part = batteryPack_4291570446
 	partName = Part
-	persistentId = 2077874351
-	pos = 0.331819296,10.0017624,0.330151588
+	persistentId = 1927845302
+	pos = 0.331819296,10.0017624,0.330151647
 	attPos = 0,0,0
 	attPos0 = 0.327180296,0.345167696,-2.98023224E-08
-	rot = 8.94069672E-08,0.707106829,1.49011612E-07,-0.707106709
+	rot = 8.94069672E-08,0.707106948,1.49011612E-07,-0.707106829
 	attRot = 0,0,0,1
 	attRot0 = -0.50000006,-0.500000179,0.49999994,0.499999911
 	mir = 1,1,1
@@ -2240,7 +2240,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -2313,11 +2313,11 @@ PART
 {
 	part = roverWheelM1-F_4291568834
 	partName = Part
-	persistentId = 3700100726
-	pos = -0.795361042,9.7017622,0.084983997
+	persistentId = 253709832
+	pos = -0.795361042,9.7017622,0.0849840716
 	attPos = -0.0356120467,0.0851079077,0.124999985
 	attPos0 = -0.764387965,0.014892146,0.175000206
-	rot = -8.94069672E-08,0,-1.78813963E-07,-1
+	rot = -1.1920929E-07,0,-1.78813977E-07,-1.00000012
 	attRot = -0.707106709,0,0,0.707106709
 	attRot0 = -0.707106769,1.26440568E-07,1.26440568E-07,0.707106888
 	mir = 1,1,1
@@ -2627,7 +2627,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -2735,11 +2735,11 @@ PART
 {
 	part = roverWheelM1-F_4291568280
 	partName = Part
-	persistentId = 4226042358
-	pos = 0.804638982,9.7017622,0.0849839374
+	persistentId = 3125418426
+	pos = 0.804638982,9.7017622,0.0849840119
 	attPos = 0.0356120467,0.0851079077,0.125000015
 	attPos0 = 0.764387965,0.0148920864,0.175000206
-	rot = -1.78813963E-07,-1,-8.94069672E-08,4.37113954E-08
+	rot = -1.78813977E-07,-1.00000012,-1.1920929E-07,4.37113954E-08
 	attRot = 0,0,0,1
 	attRot0 = 1.57349163E-07,0.707106888,-0.707106769,9.55319166E-08
 	mir = 1,1,1
@@ -3041,7 +3041,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -3149,11 +3149,11 @@ PART
 {
 	part = roverWheelM1-F_4291567564
 	partName = Part
-	persistentId = 48898655
-	pos = -0.795361042,9.7017622,-1.23356426
+	persistentId = 3386997056
+	pos = -0.795361042,9.7017622,-1.23356521
 	attPos = -0.0370030999,-0.104006529,0.125
 	attPos0 = -0.762996912,0.00400602818,0.175000191
-	rot = -8.94069672E-08,0,-1.78813963E-07,-1
+	rot = -1.1920929E-07,0,-1.78813977E-07,-1.00000012
 	attRot = -0.707106709,0,0,0.707106709
 	attRot0 = -0.707106769,1.26440568E-07,1.26440568E-07,0.707106888
 	mir = 1,1,1
@@ -3455,7 +3455,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -3563,11 +3563,11 @@ PART
 {
 	part = roverWheelM1-F_4291567296
 	partName = Part
-	persistentId = 3663184973
-	pos = 0.804638982,9.7017622,-1.23356462
+	persistentId = 2226113837
+	pos = 0.804638982,9.7017622,-1.23356557
 	attPos = 0.0370030999,-0.104006767,0.125
 	attPos0 = 0.762996912,0.00400590897,0.175000191
-	rot = -1.78813963E-07,-1,-8.94069672E-08,4.37113954E-08
+	rot = -1.78813977E-07,-1.00000012,-1.1920929E-07,4.37113954E-08
 	attRot = -0.707106709,0,0,0.707106709
 	attRot0 = 1.57349163E-07,0.707106888,-0.707106769,9.55319166E-08
 	mir = 1,1,1
@@ -3869,7 +3869,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -3977,11 +3977,11 @@ PART
 {
 	part = rcsTankMini_4291448450
 	partName = Part
-	persistentId = 2019959765
-	pos = 0.0046389983,9.91540527,-0.896017194
+	persistentId = 2413612575
+	pos = 0.0046389983,9.91540527,-0.896017671
 	attPos = 0,-1.627774,0.0863571167
 	attPos0 = 0,0.746772945,-5.96046448E-08
-	rot = -0.707106769,0,0,-0.707106769
+	rot = -0.707106829,0,0,-0.707106829
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
@@ -4076,9 +4076,36 @@ PART
 	}
 	MODULE
 	{
+		name = WBIOmniStorage
+		isEnabled = True
+		storageVolume = 100
+		accountForSwitcherCapacity = True
+		isEmpty = False
+		omniResources = MonoPropellant,20,1
+		defaultResourceNames = MonoPropellant;
+		ID = 330b1150-a7e0-4181-9498-3c0a13d01711
+		packedVolumeLimit = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			DumpResourcesAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -4151,11 +4178,11 @@ PART
 {
 	part = sasModule_4291448400
 	partName = Part
-	persistentId = 3458027083
-	pos = 0.0046389983,9.91540527,-0.617406309
+	persistentId = 4032964806
+	pos = 0.0046389983,9.91540527,-0.617406666
 	attPos = 0,0,0
 	attPos0 = 0,0.278610826,-2.98023224E-08
-	rot = -0.707106769,0,0,-0.707106769
+	rot = -0.707106829,0,0,-0.707106829
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
@@ -4292,7 +4319,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -4354,11 +4381,11 @@ PART
 {
 	part = RCSBlock.v2_4291526140
 	partName = Part
-	persistentId = 1327439749
-	pos = -0.312110692,10.0017624,-0.572718859
+	persistentId = 3228862191
+	pos = -0.312110692,10.0017624,-0.572719097
 	attPos = 0,0,0
 	attPos0 = -0.316749692,-0.557702422,5.96046448E-08
-	rot = -0.707106829,-1.2644054E-07,-1.2644054E-07,-0.707106709
+	rot = -0.707106888,-1.26440554E-07,-1.26440554E-07,-0.707106769
 	attRot = 0,0,0,1
 	attRot0 = 1.19209275E-07,1.78813934E-07,0,1
 	mir = 1,1,1
@@ -4491,7 +4518,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -4615,11 +4642,11 @@ PART
 {
 	part = RCSBlock.v2_4291523660
 	partName = Part
-	persistentId = 3608550714
-	pos = 0.321388692,10.0017624,-0.572718859
+	persistentId = 2130089186
+	pos = 0.321388692,10.0017624,-0.572719097
 	attPos = 0,0,0
 	attPos0 = 0.316749692,-0.557702422,5.96046448E-08
-	rot = -9.55319095E-08,-0.70710665,-0.707106888,-9.55319095E-08
+	rot = -9.55319166E-08,-0.707106709,-0.707106948,-9.55319166E-08
 	attRot = 0,0,0,1
 	attRot0 = 0,1,1.78813934E-07,1.35102525E-07
 	mir = 1,1,1
@@ -4752,7 +4779,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -4876,16 +4903,16 @@ PART
 {
 	part = dockingPort3_4291506600
 	partName = Part
-	persistentId = 3776265678
-	pos = 0.0046389983,10.0017624,-1.69283843
+	persistentId = 584497328
+	pos = 0.0046389983,10.0017624,-1.69283986
 	attPos = 0,0,0
 	attPos0 = 0,-0.559273243,1.1920929E-07
-	rot = 0,-0.707106769,0.707106769,0
+	rot = 0,-0.707106829,0.707106829,0
 	attRot = 0,0,-0.99999994,0
 	attRot0 = 0,0,-1,0
 	mir = 1,1,1
 	symMethod = Mirror
-	autostrutMode = Off
+	autostrutMode = Grandparent
 	rigidAttachment = False
 	istg = -1
 	resPri = 0
@@ -5125,7 +5152,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -5223,11 +5250,11 @@ PART
 {
 	part = sensorThermometer_4291503264
 	partName = Part
-	persistentId = 581421843
-	pos = -0.271337539,10.3259354,-0.348896384
+	persistentId = 2456310290
+	pos = -0.271337539,10.3259354,-0.348896444
 	attPos = 0,0,0
 	attPos0 = -0.275976539,-0.333880186,-0.324172974
-	rot = 0.707106769,1.15202319E-07,1.15202333E-07,0.707106769
+	rot = 0.707106829,1.15202333E-07,1.15202347E-07,0.707106829
 	attRot = 0,0,0,1
 	attRot0 = 0,-1.62920699E-07,-1.4210853E-14,-1
 	mir = 1,1,1
@@ -5377,7 +5404,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -5439,11 +5466,11 @@ PART
 {
 	part = domeLight1_4291462276
 	partName = Part
-	persistentId = 511732579
-	pos = 0.227455527,10.2046719,0.548712611
+	persistentId = 2773244491
+	pos = 0.227455527,10.2046719,0.54871285
 	attPos = 0,0,0
 	attPos0 = 0.222816527,0.563728571,-0.202909589
-	rot = 0,-1,0,0
+	rot = 0,-1.00000012,0,0
 	attRot = 0,0,0,1
 	attRot0 = 0,0.707106829,-0.707106829,0
 	mir = 1,1,1
@@ -5656,7 +5683,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -5749,11 +5776,11 @@ PART
 {
 	part = domeLight1_4291461940
 	partName = Part
-	persistentId = 2029368680
-	pos = -0.218177527,10.2046719,0.54871273
+	persistentId = 3505528670
+	pos = -0.218177527,10.2046719,0.548712969
 	attPos = 0,0,0
 	attPos0 = -0.222816527,0.56372869,-0.202909529
-	rot = 0,-1,0,0
+	rot = 0,-1.00000012,0,0
 	attRot = 0,0,0,1
 	attRot0 = 0,0.707106829,-0.707106829,0
 	mir = 1,1,1
@@ -5942,7 +5969,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -6035,11 +6062,11 @@ PART
 {
 	part = externalTankRound_4291452332
 	partName = Part
-	persistentId = 2802244500
-	pos = 0.0046389983,9.90176201,-0.454410046
+	persistentId = 2948663991
+	pos = 0.0046389983,9.90176201,-0.454410285
 	attPos = 0.0425025038,-1.30312276,0.142502874
 	attPos0 = -0.0425025038,0.863728762,-0.0425025225
-	rot = 0,-0.707106769,0,-0.707106769
+	rot = 0,-0.707106829,0,-0.707106829
 	attRot = 0,0,0,1
 	attRot0 = -0.5,0.5,-0.5,0.5
 	mir = 1,1,1
@@ -6132,9 +6159,36 @@ PART
 	}
 	MODULE
 	{
+		name = WBIOmniStorage
+		isEnabled = True
+		storageVolume = 110
+		accountForSwitcherCapacity = True
+		isEmpty = False
+		omniResources = LiquidFuel,9.9,1;Oxidizer,12.1,1
+		defaultResourceNames = LiquidFuel;Oxidizer;
+		ID = dc33d253-ea87-4332-9942-f4526f238fd1
+		packedVolumeLimit = -1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			DumpResourcesAction
+			{
+				actionGroup = None
+				wasActiveBeforePartWasAdjusted = False
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{
@@ -6234,11 +6288,11 @@ PART
 {
 	part = FuelCell_4291445322
 	partName = Part
-	persistentId = 914302772
-	pos = 0.0046389983,10.401763,-0.834074438
+	persistentId = 2753288106
+	pos = 0.0046389983,10.401763,-0.834075093
 	attPos = 0,0.0459787846,-0.724286914
 	attPos0 = 0,0.253510356,0.324286222
-	rot = 2.98023224E-08,-0.707106769,-1.78813934E-07,-0.707106709
+	rot = 2.98023224E-08,-0.707106948,-1.49011612E-07,-0.707106829
 	attRot = -5.11326625E-09,-1.59601559E-08,0.707106769,-0.707106829
 	attRot0 = -0.5,0.500000119,-0.499999881,0.49999997
 	mir = 1,1,1
@@ -6366,7 +6420,7 @@ PART
 	{
 		name = ControllingRecoveryModule
 		isEnabled = True
-		recoveryOwner = x
+		recoveryOwner = auto
 		stagingEnabled = True
 		EVENTS
 		{

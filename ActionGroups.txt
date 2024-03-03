@@ -12,7 +12,73 @@ Kerbfleet Planet Pack: https://spacedock.info/mod/502/Kerbfleet%20Planet%20Pack:
 Restock: https://forum.kerbalspaceprogram.com/topic/182679-1123-restock-revamping-ksps-art-feb-25/
 RestockPlus: https://spacedock.info/mod/2106/RestockPlus
 Kerbal Combat System: https://github.com/Halbann/StockCombatAI
-https://www.youtube.com/watch?v=qXeTGCeeOic
+(tutorial video): https://www.youtube.com/watch?v=qXeTGCeeOic
+Sandcastle: https://forum.kerbalspaceprogram.com/topic/201137-min-ksp-112x-sandcastle-3d-printing-for-parts-and-vessels/
+Part Volumes: https://forum.kerbalspaceprogram.com/topic/201354-112x-ksp-part-volumes/
+Atmospheric Autopilot: https://forum.kerbalspaceprogram.com/topic/124417-180-1125-atmosphereautopilot-161/
+DockRotate:
+MechJeb: https://github.com/MuMech/MechJeb2
+MechJeb For All: https://forum.kerbalspaceprogram.com/topic/174934-13x-14x-15x-16-17-mechjeb-and-engineer-and-kos-forall/
+World Stabilizer: https://forum.kerbalspaceprogram.com/topic/169206-131-18x-worldstabilizer-bugfix-for-vessels-bouncing-on-scene-load/
+Easy Vessel Switch: https://forum.kerbalspaceprogram.com/topic/141180-minimum-ksp-version-111-easy-vessel-switch-evs-v23/
+
+CRAFT FILES
+
+These craft files are located in the Kerbfleet/Ships folder. Simply copy the files to your corresponding save's Ships folder.
+
+I haven't re-read the whole Jool Odyssey in a couple of years, so it's been fun to do that while scrutinizing the designs. Compared to where the ship was back in 2021, Intrepid is now as accurate as I can get, barring changes in KSP versions and availability of new parts.
+
+Anyway, here is the latest update. Quick summary of the craft files:
+
+SPH
+
+KSS Intrepid (KCC-011): This is the Camera Ready version, complete with rover, GumdropPod 1 & 2, LifeSupportModuleUSI, and EngineeringModuleUSI. She doesn't have any Jool Diver or ScanSat probes aboard, and Qwammer and Skimmeroo need to be docked separately.
+
+Project Intrepid: This is the ship minus her auxiliary craft, engineering module, and life support modules. There are flags for naming several vessels in the fleet in both TOS and TMP font styles.
+
+Project Intrepid (Modular): As with Project Intrepid, but her Nervas all have docking ports to allow for in-space refitting.
+
+EngineeringModuleUSI: This is the ship's engineering module as it appears in the Jool Odyssey webcomic- er mission report (eyes the mission patch fondly). Requires USI Core.
+
+EngineeringModuleWBI: This is the ship's engineering module, but it uses the S.A.F.E.R. reactors from Wild Blue Tools.
+
+LifeSupportModuleUSI: This is the ship's life support module as it appears in the Jool Odyssey... mission report... yeah, that's it! Requires USI Life Support and Kerbal Planetary Base Systems.
+
+LifeSupportModuleSnacks: This is the Snacks version of the ship's life support module. Requires Snacks and Deep Space Exploration Vessels.
+
+DerpStar: The standard Kerbfleet SSTO cargo shuttle.
+
+Gliido: The Kerbfleet passenger SSTO.
+
+Gumdrop Pod: A small, low-g exploration pod. There are Flags for Gumdrop 1 and Gumdrop 2.
+
+JoolDiver: A small atmospheric probe that- wait for it- dives into Jool.
+
+Kermulan Fighter: Camera ready. Equipped with missiles and a Bloaking Device. Seats 1.
+
+Kermulan Breech Pod: Similar to a Kermulan Fighter, but it sacrifices guns and fuel for extra crew space. Seat 5.
+
+Kermulan Gunfighter: Equipped with guns, missiles, and a Bloaking Device. Seats 1.
+
+Kermulan Missile Boat: Bad guy ship from Jool Odyssey. Has guns, missiles, Bloaking Device, docking ports for 2 fighters/breech pod/gunfighter. Bridge seats 5, with space for an additional 4 crew.
+
+Qwammer: An SSTO capable boat that can self-refuel. Seats 3, fits in Q-Pod on the Intrepid.
+
+Rover: A small rover for roving.
+
+Sandcastle Space Dock: A specially designed orbiting dockyard where Intrepid and her sister ships can dock. Requires Sandcastle.
+
+Skimmeroo: A compact SSTO capable of ground and water landings on Kerbin and Laythe. Equipped with a payload bay containing science experiments. Seats 2.
+
+Skimmertoo: As above, but sacrifices the science bay for a crew cabin. Seats 6.
+
+VAB
+
+KSS Intrepid (Launch): Camera ready, this is the KSS Intrepid in launch configuration, complete with LifeSupportModule USI and EngineeringModuleUSI. Requires USI Life Support and USI Core.
+
+Project Intrepid (Launch): This is the ship minus her auxiliary craft, engineering module, and life support modules, in launch configuration.
+
+Project Intrepid (Mod, Launch): This is the modular engine version of the ship, minus her auxiliary craft, engineering module, and life support modules, in launch configuration.
 
 ACTION GROUPS
 
@@ -41,15 +107,15 @@ Action Set 2: Intrepid Engines
 
 Action Set 3: Auxiliary Craft
 1: Undock Qwammer Docking Ports (Intrepid, Qwammer)
-2: Undock X-5 Docking Ports (Intrepid, X-5)
-3: Toggle Dart Engines (Qwammer)
-4: Toggle R.A.P.I.E.R. Engines (X-5)
-5: Toggle Engine Mode (X-5, Shuttle)
+2: Undock Skimmeroo Docking Ports (Intrepid, Skimmeroo)
+3: Toggle Dart Engines (Qwammer); Science! (JoolDiver, SCANSat)
+4: Toggle R.A.P.I.E.R. Engines (Skimmeroo, DerpStar)
+5: Toggle Engine Mode (Skimmeroo, DerpStar)
 6: Toggle Drill Deployment & Radiators (Qwammer)
 7: Toggle Drill Harvesting (Qwammer)
 8: Toggle Convert-O-Tron-250 (Qwammer)
-9: Toggle Fuel Cells (Qwammer, X-5, Rover)
-10: Toggle Ladders (Qwammer, X-5)
+9: Toggle Fuel Cells (Qwammer, Skimmeroo, Rover)
+10: Toggle Ladders (Qwammer, Skimmeroo)
 
 Action Set 4: Kermulans, Space Dock, & Intrepid Lights
 1: Fire phasers!
