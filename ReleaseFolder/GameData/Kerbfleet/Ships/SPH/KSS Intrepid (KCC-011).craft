@@ -50928,6 +50928,7 @@ PART
 			ToggleLightAction
 			{
 				actionGroup = Light
+				overrideGroup0 = Custom09
 				wasActiveBeforePartWasAdjusted = False
 			}
 			LightOnAction
@@ -51238,6 +51239,7 @@ PART
 			ToggleLightAction
 			{
 				actionGroup = Light
+				overrideGroup0 = Custom09
 				wasActiveBeforePartWasAdjusted = False
 			}
 			LightOnAction
