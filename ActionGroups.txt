@@ -104,6 +104,7 @@ Action Set 2: Intrepid Engines
 3: Toggle Dart Engines (Intrepid & Qwammer)
 4: Toggle Forward Dart Engines Thrust Limiter (to adjust for Center of Mass with/without Qwammer)
 5: Control From Here - Control the Intrepid from the center-aft hangar bay docking port, the one next to the radiators.
+6: Turn off Hanger & Q-Bay Lights (useful when turning on all the lights for launch ops)
 
 Action Set 3: Auxiliary Craft
 1: Undock Qwammer Docking Ports (Intrepid, Qwammer)
